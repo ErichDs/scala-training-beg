@@ -43,7 +43,7 @@ object Inheritance extends App {
 
   // overriding vs overloading
 
-  // super: see line 31
+  // super: see line 31 // reference method or field from parent class
 
   // preventing overrides
   // 1 - use keyword final on member
