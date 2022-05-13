@@ -9,9 +9,9 @@ object AbstractDataTypes extends App {
   }
 
   class Dog extends Animal {
-    // "override" keyword can be disregarded for abstract classes
-    val creatureType: String = "Canine"
-    def eat: Unit            = println("crunch crunch")
+    // "override" keyword can be disregarded for abstract types
+    override val creatureType: String = "Canine"
+    def eat: Unit                     = println("crunch crunch")
   }
 
   // traits
