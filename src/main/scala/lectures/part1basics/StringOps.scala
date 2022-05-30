@@ -11,6 +11,7 @@ object StringOps extends App {
   println(str.replace(" ", "-"))
   println(str.toLowerCase())
   println(str.length)
+  println(str.indexOf("learning"))
 
   val aNumberString = "2"
   val aNumber       = aNumberString.toInt
