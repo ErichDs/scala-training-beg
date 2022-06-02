@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Playground" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="playground.Playground" />
+    <module name="udemy-scala-beginners" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
