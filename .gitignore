@@ -155,3 +155,6 @@ project/plugins/project/
 ### VS Code ###
 .metals/
 .vscode/
+.bloop/
+project/.bloop
+metals.sbt
